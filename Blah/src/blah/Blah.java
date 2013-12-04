@@ -14,6 +14,6 @@ public class Blah {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic her
+       System.out.println("Hi");
     }
 }
